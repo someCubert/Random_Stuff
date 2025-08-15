@@ -1,1 +1,1 @@
-This is the supporting GitHub for a little Weather Widget in Scriptable. It's slightly altered and tailored to my personal likings, but the original version is from [sharn25](https://gist.github.com/sharn25). 
+This is the supporting (mostly acting as a download hub) GitHub for a little Weather Widget in Scriptable. It's slightly altered and tailored to my personal likings, but the original version is from [sharn25](https://gist.github.com/sharn25). 
